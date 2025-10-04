@@ -18,8 +18,4 @@ npm install
   - Docs: `scripts/proofs/README.md`
   - Verifies Cardano (CIP-8) and Solana bundles
 
-### Security
-- No API keys are committed. Provide Blockfrost keys via environment variables only.
-- `.gitignore` excludes `node_modules/` and typical secret file patterns.
-
 
